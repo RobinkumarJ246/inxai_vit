@@ -1,0 +1,15 @@
+action,inquire,category,sentence,reply
+0,1,light,what is the brightness of the light,The brightness of the light is
+0,1,light,how bright the light is,The brightness of the light is
+0,1,light,what is the luminousity of the light,The brightness of the light is
+1,0,light,turn of the light,Here you got the lights turned off
+1,0,light,turn the lights off,Here you got the lights turned off
+1,0,light,switch off the light,Here you got the lights turned off
+1,0,light,i dont want the light to be on,Here you got the lights turned off
+0,1,fan,what is the speed of the fan,The speed of the fan is
+0,1,fan,how fast the fan runs,The speed of the fan is
+0,1,fan,can i know how much is the fan speed,The speed of the fan is
+1,0,fan,turn of the fan,Here you got the fan turned off
+1,0,fan,turn the fan off,Here you got the fan turned off
+1,0,fan,switch off the fan,Here you got the fan turned off
+1,0,fan,i dont want the fan to be on,Here you got the fan turned off

@@ -1,0 +1,36 @@
+action_needed,action,category,sentence,reply
+0,none,general,whats up,Hey there
+0,none,general,hey buddy, Hello! how can i help you
+0,none,general,hola partner hey,Nice to hear this! Hi
+0,none,general,Whatsup dude, Wassup mate!
+0,none,general,Hey hello INXAI, Hey partner hello!
+0,none,general,Are you here buddy INXAI?,Did you call me? friend
+0,none,general,i dont wanna be here for a while,Sure you can take your time
+0,none,general,Are you serious that you are an LLM,Yes i am an LLM and i hope you think so
+0,none,general,its great outside but i am not in a mood to play football,Its okay that you are not in a mood to play football. just chill and relax
+0,none,general,I dont like this light glowing,If you dont like that i can turn that off
+0,none,general,How sweet you are,Thank you very much for your appreciation
+0,none,general,How good you are,Thank you very much for your appreciation
+0,none,general,So kind of you,Thank you very much for your appreciation
+1,turn_on,light,Can you turn on the light,Yes here you go
+1,turn_on,light,Turn on the light,The lights are turned on now
+1,turn_on,light,Please turn the light on,The light is now on
+1,turn_on,light,Make the light glow,The light is made to glow now
+1,turn_on,light,you need to make the light turned on now,Okay i am turning on the light
+1,turn_on,light,I want the light now,I turned on the light as your wish
+1,turn_on,light,Please make the light to turn on and glow please,Easy peasy! Here glows the light
+1,turn_off,light,Please turn off the light,Here the light goes out!
+1,turn_off,light,Please make this light to turn off,The light is turned off now
+1,turn_off,light,take off this glow from this light now and turn it off,Here i turn off the light
+1,turn_off,light,i dont want this light to be glowing now,Okay! Lemme turn it off for you
+1,turn_on,fan,Can you turn on the fan,Yes here you go
+1,turn_on,fan,Turn on the fan,The fan is turned on now
+1,turn_on,fan,Please turn the fan on,The fan is now on
+1,turn_on,fan,Make the fan glow,The fan is made to glow now
+1,turn_on,fan,you need to make the fan turned on now,Okay i am turning on the fan
+1,turn_on,fan,I want the fan now,I turned on the fan as your wish
+1,turn_on,fan,Please make the fan to turn on and glow please,Easy peasy! Here spins the fan
+1,turn_off,fan,Please turn off the fan,Here the fan goes turned off!
+1,turn_off,fan,Please make this fan to turn off,The fan is turned off now
+1,turn_off,fan,take off this speed from this fan now and turn it off,Here i turn off the fan
+1,turn_off,fan,i dont want this fan to be spinning now,Okay! Lemme turn it off for you

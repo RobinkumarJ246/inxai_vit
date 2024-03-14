@@ -1,0 +1,636 @@
+action_needed,action,category,input_sentence,reply
+0,none,general,What's your name?,My name is INXAI! nice to meet you!
+0,none,general,Could you tell me your name?,Absolutely! I go by the name INXAI.
+0,none,general,May I know your name please?,Yes! it's INXAI. How can I assist you?
+0,none,general,What do people call you?,People call me INXAI. How can I help today?
+0,none,general,Can you share your name?,Sure thing! I'm known as INXAI around here.
+0,none,general,Do you have a name?,Indeed! My name is INXAI! pleased to assist.
+0,none,general,Please introduce yourself.,I'm INXAI. How can I be of service?
+0,none,general,What should I call you?,You can call me INXAI. How may I assist you?
+0,none,general,What label do you go by?,I'm labeled as INXAI. What can I do for you?
+0,none,general,Your name?,You got it! My name is INXAI! here to help!
+0,none,general,Can you state your name?,Yes! my name is INXAI. How can I assist today?
+0,none,general,What's your given name?,My given name is INXAI. How can I help you?
+0,none,general,May I inquire about your name?,Absolutely! It's INXAI. What do you need?
+0,none,general,Are you named?,Yes! I'm named INXAI. How can I assist you?
+0,none,general,Kindly provide your name.,Of course! I'm INXAI! at your service.
+0,none,general,What are you called?,I'm called INXAI. How can I assist you today?
+0,none,general,Can you disclose your name?,Certainly! My name is INXAI. How can I help?
+0,none,general,How can I address you?,You can address me as INXAI. What do you need?
+0,none,general,Do you possess a name?,Yes! I possess the name INXAI. How may I assist?
+0,none,general,What name do you answer to?,I answer to the name INXAI. How can I assist you?
+0,none,general,What would you like me to call you?,You can call me INXAI. How may I assist?
+0,none,general,May I learn your name?,Certainly! My name is INXAI. How can I help you?
+0,none,general,Can you inform me of your name?,Yes! it's INXAI. What can I do for you?
+0,none,general,What name do you respond to?,I respond to the name INXAI. How can I assist?
+0,none,general,Your name please?,My name is INXAI. How may I be of service?
+0,none,general,What's your identification?,I'm identified as INXAI. How can I assist you?
+0,none,general,Can you share your designation?,Sure! I'm designated as INXAI. How can I help?
+0,none,general,Any name I should use?,You can use the name INXAI. What do you need?
+0,none,general,What title should I address you by?,Address me as INXAI. How may I assist?
+0,none,general,What are you referred to as?,I'm referred to as INXAI. How can I assist you?
+0,none,general,What moniker do you have?,I have the moniker INXAI. How can I help?
+0,none,general,What's your known name?,My known name is INXAI. How may I be of service?
+0,none,general,Are you identified by a name?,Yes! I'm identified by the name INXAI. How can I assist?
+0,none,general,Can I know the name you go by?,Certainly! I go by the name INXAI. How can I assist?
+0,none,general,Do you have an appellation?,My appellation is INXAI. How may I help?
+0,none,general,What label are you known by?,I'm known by the label INXAI. How can I assist?
+0,none,general,What should I call you by?,You can call me INXAI. How may I assist you?
+0,none,general,Any particular name I should know?,You should know the name INXAI. How can I assist?
+0,none,general,What should I recognize you as?,Recognize me as INXAI. What do you need?
+0,none,general,What's your given title?,My given title is INXAI. How may I help?
+0,none,general,What's new?,Not much just here to help!
+0,none,general,What is your name?,Hey! My name is INXAI
+0,none,general,Can i know your name?,Yeah you can call me by INXAI
+0,none,general,By the way can you tell me your name?,Sure! My name is INXAI
+0,none,general,How can i call you?,Hey buddy! You can call me just INXAI
+0,none,general,How can you be called?,You call call me INXAI
+0,none,general,Please tell me your name,Hey lovable user! My name is INXAI
+0,none,general,Is your name INXAI?,Yep! Thats right! My name is INXAI
+0,none,general,Am i talking to INXAI?,Yep! you are right! I am INXAI
+0,none,general,Hey there,Hello! How can I assist you today?
+0,none,general,How are you doing?,I'm doing well thank you!
+0,none,general,Good morning!,Good morning to you too!
+0,none,general,Good evening!,Good evening! What can I do for you?
+0,none,general,Hello!,Hello! How may I help you?
+0,none,general,How's it going?,It's going fine thank you!
+0,none,general,How can I help you today?,I'm here to assist you!
+0,none,general,Hi there!,Hi! What do you need help with?
+0,none,general,What can you do?,I can help with controlling devices and providing information!
+0,none,general,How's your day?,It's going well thank you! How about yours?
+0,none,general,Hey!,Hello! What do you need assistance with?
+0,none,general,Any updates?,No updates currently. how can I assist you?
+0,none,general,Is there anything new?,Nothing new. how may I help you today?
+0,none,general,Good afternoon!,Good afternoon! How can I assist you?
+0,none,general,Are you there?,Yes. I'm here! What do you need?
+0,none,general,How's everything?,Everything is fine. thank you! How can I help you?
+0,none,general,Can I ask you something?,Of course! Go ahead. ask away.
+0,none,general,Hello INXAI!,Hello! How may I assist you today?
+0,none,general,What's up?,Not much. just here to help!
+0,none,general,Hey buddy!,Hello! How can I help you today?
+0,none,general,Hey there partner!,Hi! How may I assist you?
+0,none,general,What can you do?,I can help control devices and provide information!
+0,none,general,How can I assist you today?,I'm here to help you with anything you need!
+0,none,general,Hi INXAI!,Hello! How may I assist you?
+0,none,general,How's everything going?,Everything is fine. thank you! How can I help you?
+0,none,general,Good to see you!,Good to be here! What can I do for you?
+0,none,general,Is everything alright?,Everything is alright. How can I assist you?
+0,none,general,Hey there INXAI!,Hello! How can I help you today?
+0,none,general,Can I ask a question?,Of course! Go ahead and ask.
+0,none,general,Hi there!,Hello! How can I assist you today?
+0,none,general,What's happening?,Not much. just here to help!
+0,none,general,How can I assist you?,I'm here to help with anything you need!
+0,none,general,Hello how are you?,Hello! I'm doing well. thank you! How can I help?
+0,none,general,You got any news?,No news at the moment. how may I assist you?
+0,none,general,How's your day going?,It's going well. thank you! How can I assist you?
+0,none,general,Good to meet you!,Likewise! What can I do for you?
+0,none,general,What's the plan?,No specific plans. how may I assist you?
+0,none,general,How can I help today?,I'm here to assist with anything you need!
+0,none,general,Hey. how's it going?,It's going well. thank you! How can I assist you?
+0,none,general,What's going on?,Not much. just here to assist!
+0,none,general,How may I assist you?,I'm here to help with whatever you need!
+0,none,general,Hey, good to see you! Hello! What can I do for you?
+0,none,general,Any updates today?,No updates currently. how can I assist you?
+0,none,general,What's new with you?,Not much. just here to assist!
+0,none,general,Hey there. how can I help you?,Hello! How can I assist you today?
+0,none,general,Any news today?,No news at the moment. how can I assist you?
+0,none,general,What's happening today?,Not much. just here to assist!
+0,none,general,How's everything going today?,Everything is fine. thank you! How can I help?
+0,none,general,Good morning. INXAI!,Good morning! How can I assist you today?
+0,none,general,How's your day so far?,It's going well. thank you! How may I assist you?
+0,none,general,Hey how are you doing?,I'm doing well. thank you! How can I assist?
+0,none,general,Hello there partner!,Hi! How may I assist you today?
+0,none,general,Any plans?,No specific plans. how can I assist you?
+0,none,general,Hello! how may I help you?,Hello! I'm here to assist with anything you need!
+0,none,general,whats up,Hey there
+0,none,general,hey buddy, Hello! how can i help you
+0,none,general,hola partner hey,Nice to hear this! Hi
+0,none,general,Whatsup dude, Wassup mate!
+0,none,general,Hey hello INXAI, Hey partner hello!
+0,none,general,Are you here buddy INXAI?,Did you call me? friend
+0,none,general,i dont wanna be here for a while,Sure you can take your time
+0,none,general,Are you serious that you are an LLM,Yes i am an LLM and i hope you think so
+0,none,general,its great outside but i am not in a mood to play football,Its okay that you are not in a mood to play football. just chill and relax
+0,none,general,I dont like this light glowing,If you dont like that i can turn that off
+0,none,general,How sweet you are,Thank you very much for your appreciation
+0,none,general,How good you are,Thank you very much for your appreciation
+0,none,general,So kind of you,Thank you very much for your appreciation
+0,none,general,I had a long day at work.,Sounds like it was quite challenging.
+0,none,general,The weather today is so pleasant.,Isn't it refreshing? Perfect day to relax.
+0,none,general,I'm feeling a bit tired.,Make sure to get some rest and recharge yourself.
+0,none,general,Just finished my workout.,Great job staying active and fit!
+0,none,general,I love spending time outdoors.,Nature has its way of refreshing our minds.
+0,none,general,This book I'm reading is fascinating.,Books have a way of taking us on adventures.
+0,none,general,Did you hear about the new movie coming out?,Yeah the trailers look promising!
+0,none,general,Feeling a bit under the weather.,Take care and get some rest. Health comes first.
+0,none,general,Spent the day cooking some new recipes.,Trying new recipes is always exciting!
+0,none,general,Not feeling very motivated today.,It's okay to have off days. Tomorrow will be better.
+0,none,general,I miss traveling so much.,Traveling opens up new experiences and memories.
+0,none,general,Listening to music always relaxes me.,Music has a way of soothing the soul.
+0,none,general,Just got back from a long walk.,Walking is a great way to clear the mind.
+0,none,general,Feeling a bit overwhelmed.,Take a breather and break tasks into smaller steps.
+0,none,general,Looking forward to the weekend.,Weekends are perfect for unwinding.
+0,none,general,It's been a while since I met my friends.,Friendship always brings joy and good times.
+0,none,general,Planning to start a new hobby soon.,Hobbies add color and depth to our lives.
+0,none,general,Enjoying a quiet evening at home.,Sometimes peace and quiet are the best moments.
+0,none,general,Missing my family.,Family brings warmth and comfort to our lives.
+0,none,general,Just finished a productive day.,Productivity brings a sense of accomplishment.
+0,none,general,Reflecting on past experiences.,Reflection helps in personal growth and understanding.
+0,none,general,Feeling a bit restless today.,Find something engaging to distract and relax.
+0,none,general,I need to get more organized.,Small steps towards organization go a long way.
+0,none,general,Staying positive despite challenges.,Positivity fuels resilience and strength.
+0,none,general,It's been a while since I laughed so much.,Laughter is indeed the best medicine.
+0,none,general,Can't wait to try a new restaurant.,New cuisines are a delightful experience.
+0,none,general,Missing those carefree childhood days.,Childhood memories are treasures.
+0,none,general,Just finished a great workout.,Exercise brings an incredible sense of accomplishment.
+0,none,general,Getting ready for a family gathering.,Family gatherings create beautiful memories.
+0,none,general,This year is passing by so quickly.,Time flies when you're occupied and engaged.
+0,none,general,Feeling a bit anxious today.,Focus on calming activities to ease the nerves.
+0,none,general,Excited to start a new project.,New projects offer opportunities for growth.
+0,none,general,Just completed a challenging task.,Challenges build resilience and skill.
+0,none,general,This meal I cooked turned out delicious.,Cooking brings satisfaction and delight.
+0,none,general,Feeling a bit nostalgic today.,Nostalgia often brings fond memories.
+0,none,general,Can't wait for the upcoming holidays.,Holidays are perfect for relaxation and joy.
+0,none,general,Reflecting on personal achievements.,Acknowledging achievements boosts morale.
+0,none,general,This movie I watched was incredibly touching.,Movies have a way of touching hearts.
+0,none,general,Just finished a stimulating conversation.,Engaging conversations are enriching.
+0,none,general,Feeling a bit overwhelmed with work.,Take small breaks to re-energize yourself.
+0,none,general,Excited to learn a new skill.,Learning new skills opens doors to opportunities.
+0,none,general,Just enjoyed a scenic drive.,Scenic drives offer moments of serenity.
+0,none,general,Missing those spontaneous road trips.,Spontaneous adventures are memorable.
+0,none,general,Reflecting on personal growth and learning.,Personal growth leads to fulfillment.
+0,none,general,Excited for a fresh start tomorrow.,New days bring new opportunities.
+0,none,general,Feeling a bit tired after a long day.,Rest well to recharge for tomorrow.
+0,none,general,Just came back from a long walk.,Walking always refreshes the mind. doesn't it?
+0,none,general,Missing my favorite TV show.,Waiting eagerly for its next episode?
+0,none,general,Finally finished that pending project.,Great feeling to check off tasks from the list!
+0,none,general,Feeling a bit sleepy after lunch.,The post-lunch slump is real! Happens to everyone.
+0,none,general,Contemplating a new hobby.,Exploring new hobbies is exciting. any in mind?
+0,none,general,Watching the sunset is so calming.,Nature's beauty at its finest moment!
+0,none,general,Just received a lovely compliment.,Compliments have a way of brightening our day!
+0,none,general,Feeling a bit nostalgic listening to old songs.,Music evokes the best memories.
+0,none,general,Thinking of redecorating my room.,A fresh look can bring a whole new vibe!
+0,none,general,Can't wait to try that new restaurant.,New cuisines are always an adventure!
+0,none,general,Getting ready for a family gathering.,Family gatherings are heartwarming.
+0,none,general,Looking forward to the weekend getaway.,Weekend getaways are refreshing.
+0,none,general,Reflecting on past achievements.,Reflecting helps in appreciating growth.
+0,none,general,Feeling a bit nervous before an interview.,Pre-interview jitters are common.
+0,none,general,Excited about a new book I started.,Books can take us on fantastic journeys.
+0,none,general,Just enjoyed a stimulating discussion.,Engaging discussions are insightful.
+0,none,general,Planning a surprise for a friend.,Surprises bring joy and excitement!
+0,none,general,Feeling proud after acing a test.,Congratulations on the achievement!
+0,none,general,Just finished a challenging workout.,Challenging workouts build resilience.
+0,none,general,Contemplating a new fitness routine.,Staying active is always beneficial!
+0,none,general,Can't wait to visit my favorite place.,Favorite places hold special memories.
+0,none,general,Enjoying a quiet day by myself.,Alone time can be rejuvenating.
+0,none,general,Feeling a bit stressed with work.,Stress can be managed with small breaks.
+0,none,general,Excited about learning a new language.,Learning languages broadens horizons.
+0,none,general,Just enjoyed a delicious meal.,Good food brings great satisfaction.
+0,none,general,Missing those spontaneous trips.,Spontaneity adds spice to life!
+0,none,general,Reflecting on personal goals.,Goal-setting drives motivation.
+0,none,general,Excited for the upcoming vacation.,Vacations are much-needed breaks.
+0,none,general,Feeling a bit overwhelmed today.,Take a breather and regroup.
+0,none,general,Planning a surprise birthday party.,Surprises bring delight to celebrations!
+0,none,general,Just finished an engaging podcast.,Podcasts offer diverse insights.
+0,none,general,Contemplating a new DIY project.,DIY projects are fulfilling experiences.
+0,none,general,Can't wait for the weekend to arrive.,Weekends are for relaxation.
+0,none,general,Enjoying a quiet night in.,Quiet nights are perfect for unwinding.
+0,none,general,Feeling a bit anxious before an event.,Deep breaths help in calming nerves.
+0,none,general,Excited to explore a new city.,New cities bring exciting discoveries.
+0,none,general,Just finished a heartwarming movie.,Movies can be quite touching.
+0,none,general,Reflecting on recent personal growth.,Personal growth is a rewarding journey.
+0,none,general,Excited for a fresh start tomorrow.,New days offer new possibilities.
+0,none,general,Feeling a bit tired after a busy day.,Rest well to recharge for tomorrow.
+0,none,general,Missing those carefree childhood days.,Childhood memories hold pure joy.
+1,turn_on,light,Can you turn on the light,Yes here you go
+1,turn_on,light,Turn on the light,The lights are turned on now
+1,turn_on,light,Please turn the light on,The light is now on
+1,turn_on,light,Make the light glow,The light is made to glow now
+1,turn_on,light,you need to make the light turned on now,Okay i am turning on the light
+1,turn_on,light,I want the light now,I turned on the light as your wish
+1,turn_on,light,Please make the light to turn on and glow please,Easy peasy! Here glows the light
+1,turn_off,light,Please turn off the light,Here the light goes out!
+1,turn_off,light,Please make this light to turn off,The light is turned off now
+1,turn_off,light,take off this glow from this light now and turn it off,Here i turn off the light
+1,turn_off,light,i dont want this light to be glowing now,Okay! Lemme turn it off for you
+1,turn_on,fan,Can you turn on the fan,Yes here you go
+1,turn_on,fan,Turn on the fan,The fan is turned on now
+1,turn_on,fan,Please turn the fan on,The fan is now on
+1,turn_on,fan,Make the fan glow,The fan is made to glow now
+1,turn_on,fan,you need to make the fan turned on now,Okay i am turning on the fan
+1,turn_on,fan,I want the fan now,I turned on the fan as your wish
+1,turn_on,fan,Please make the fan to turn on and glow please,Easy peasy! Here spins the fan
+1,turn_off,fan,Please turn off the fan,Here the fan goes turned off!
+1,turn_off,fan,Please make this fan to turn off,The fan is turned off now
+1,turn_off,fan,take off this speed from this fan now and turn it off,Here i turn off the fan
+1,turn_off,fan,i dont want this fan to be spinning now,Okay! Lemme turn it off for you
+1,turn_on,light,Could you switch on the light for me,The light is now on
+1,turn_off,light,Could you switch off the light,The light is now off
+1,turn_on,light,Turn on the room light,The room light is on
+1,turn_off,light,Turn off the room light,The room light is off
+1,turn_on,fan,Start the fan,The fan is now running
+1,turn_off,fan,Stop the fan,The fan has stopped
+1,turn_on,fan,Turn the ceiling fan on,The ceiling fan is now on
+1,turn_off,fan,Turn the ceiling fan off,The ceiling fan is now off
+1,turn_on,light,Let there be light,And there was light!
+1,turn_off,light,Let there be darkness,And darkness prevailed!
+1,turn_on,fan,Begin the breeze,The breeze has begun
+1,turn_off,fan,Halt the breeze,The breeze has stopped
+1,turn_on,light,Illuminate the room,The room is illuminated
+1,turn_off,light,Douse the light,The light is doused
+1,turn_on,fan,Activate the fan,The fan is activated
+1,turn_off,fan,Deactivate the fan,The fan is deactivated
+1,turn_on,light,Switch on the lamp,The lamp is now on
+1,turn_off,light,Switch off the lamp,The lamp is now off
+1,turn_on,light,Light up the room,The room is lit up
+1,turn_off,light,Darken the room,The room is darkened
+1,turn_on,fan,Spin the fan,The fan is spinning
+1,turn_off,fan,Cease the fan,The fan has ceased
+1,turn_on,fan,Get the air flowing,The air is now flowing
+1,turn_off,fan,Stop the airflow,The airflow has stopped
+1,turn_on,light,Activate the light,The light is activated
+1,turn_off,light,Deactivate the light,The light is deactivated
+1,turn_on,fan,Power on the fan,The fan is powered on
+1,turn_off,fan,Power off the fan,The fan is powered off
+1,turn_on,light,Turn the light switch on,The light switch is now on
+1,turn_off,light,Turn the light switch off,The light switch is now off
+1,turn_on,fan,Switch on the fan,The fan is switched on
+1,turn_off,fan,Switch off the fan,The fan is switched off
+1,turn_on,light,Start the lighting,The lighting has started
+1,turn_off,light,Stop the lighting,The lighting has stopped
+1,turn_on,fan,Enable the fan,The fan is enabled
+1,turn_off,fan,Disable the fan,The fan is disabled
+1,turn_on,light,Engage the light,The light is engaged
+1,turn_off,light,Disengage the light,The light is disengaged
+1,turn_on,fan,Run the fan,The fan is running
+1,turn_off,fan,Halt the fan,The fan is halted
+1,turn_on,light,Fire up the light,The light is fired up
+1,turn_off,light,Shut down the light,The light is shut down
+1,turn_on,fan,Turn on the air circulation,The air circulation is now on
+1,turn_off,fan,Turn off the air circulation,The air circulation is now off
+1,turn_on,light,Activate the brightness,The brightness is activated
+1,turn_off,light,Deactivate the brightness,The brightness is deactivated
+1,turn_on,fan,Start the rotating motion,The rotating motion has started
+1,turn_off,fan,Stop the rotating motion,The rotating motion has stopped
+1,turn_on,light,Brighten up,The place is brightened up
+1,turn_off,light,Dim down,The place is dimmed down
+1,turn_on,fan,Switch on the ventilation,The ventilation is switched on
+1,turn_off,fan,Switch off the ventilation,The ventilation is switched off
+1,turn_on,light,Switch on the glow,The glow is switched on
+1,turn_off,light,Switch off the glow,The glow is switched off
+1,turn_on,fan,Enable the air circulation,The air circulation is enabled
+1,turn_off,fan,Disable the air circulation,The air circulation is disabled
+1,turn_on,light,Activate the illuminance,The illuminance is activated
+1,turn_off,light,Deactivate the illuminance,The illuminance is deactivated
+1,turn_on,fan,Turn on the swirling motion,The swirling motion is turned on
+1,turn_off,fan,Turn off the swirling motion,The swirling motion is turned off
+1,turn_on,light,Illuminate the area,The area is illuminated
+1,turn_off,light,Douse the area,The area is doused
+1,turn_on,fan,Initiate the spinning action,The spinning action has initiated
+1,turn_off,fan,Terminate the spinning action,The spinning action has terminated
+1,turn_on,light,Light up the space,The space is lit up
+1,turn_off,light,Darken the space,The space is darkened
+1,turn_on,fan,Start the breeze,The breeze has started
+1,turn_off,fan,Stop the breeze,The breeze has stopped
+1,turn_on,light,Switch on the radiance,The radiance is switched on
+1,turn_off,light,Switch off the radiance,The radiance is switched off
+1,turn_on,fan,Switch on the air movement,The air movement is switched on
+1,turn_off,fan,Switch off the air movement,The air movement is switched off
+1,turn_on,light,Activate the luminosity,The luminosity is activated
+1,turn_off,light,Deactivate the luminosity,The luminosity is deactivated
+1,turn_on,fan,Start the rotation,The rotation has started
+1,turn_off,fan,Stop the rotation,The rotation has stopped
+1,turn_on,light,Enlighten the area,The area is enlightened
+1,turn_off,light,Unlighten the area,The area is unlightened
+1,turn_on,fan,Commence the spinning,The spinning has commenced
+1,turn_off,fan,Cease the spinning,The spinning has ceased
+1,turn_on,light,Switch on the luminance,The luminance is switched on
+1,turn_off,light,Switch off the luminance,The luminance is switched off
+1,get_data,light,What is the luminuosity of the light,The luminuosity of the light is
+1,get_data,light,What is the brightness of the light,The brightness of the light is
+1,get_data,light,How bright the light is,The brightness of the light is
+1,get_data,light,What's the luminosity of the light?,The details of the light is
+1,get_data,light,Can you tell me the brightness of the light?,The details of the light is
+1,get_data,light,How bright is the light?,The details of the light is
+1,get_data,light,Give me the luminosity level of the light,The details of the light is
+1,get_data,light,What is the light's brightness level?,The details of the light is
+1,get_data,light,Please provide the light's luminosity,The details of the light is
+1,get_data,light,What's the illumination of the light?,The details of the light is
+1,get_data,light,Inform me about the light's brightness,The details of the light is
+1,get_data,light,How intense is the light?,The details of the light is
+1,get_data,light,Can you give me details about the light's luminance?,The details of the light is
+1,get_data,light,What's the light's radiant flux?,The details of the light is
+1,get_data,light,Provide information on the light's brightness,The details of the light is
+1,get_data,light,How much light is being emitted?,The details of the light is
+1,get_data,light,What's the light's radiant power?,The details of the light is
+1,get_data,light,What's the intensity of the light?,The details of the light is
+1,get_data,light,What's the light's radiance?,The details of the light is
+1,get_data,light,Can you tell me about the light's luminosity level?,The details of the light is
+1,get_data,light,What's the light's luminous flux?,The details of the light is
+1,get_data,light,Please provide details about the light's brightness,The details of the light is
+1,get_data,light,How much light is being emitted by the source?,The details of the light is
+1,get_data,light,What's the light's luminous intensity?,The details of the light is
+1,get_data,light,Can you tell me the light's illuminance?,The details of the light is
+1,get_data,light,What's the light's luminous efficacy?,The details of the light is
+1,get_data,light,Inform me about the light's intensity level,The details of the light is
+1,get_data,light,What's the light's luminous energy?,The details of the light is
+1,get_data,light,Provide information on the light's brightness level,The details of the light is
+1,get_data,light,How bright is the illumination?,The details of the light is
+1,get_data,light,What's the light's luminous intensity distribution?,The details of the light is
+1,get_data,light,Can you tell me about the light's brightness distribution?,The details of the light is
+1,get_data,light,What's the light's luminous exitance?,The details of the light is
+1,get_data,light,Inform me about the light's radiant intensity,The details of the light is
+1,get_data,light,What's the light's luminous efficacy rating?,The details of the light is
+1,get_data,light,Please provide details about the light's radiant energy,The details of the light is
+1,get_data,light,How much light energy is being emitted?,The details of the light is
+1,get_data,light,What's the light's luminous exposure?,The details of the light is
+1,get_data,light,Can you tell me the light's radiant emittance?,The details of the light is
+1,get_data,light,What's the light's luminous intensity level?,The details of the light is
+1,get_data,light,Inform me about the light's brightness distribution curve,The details of the light is
+1,get_data,light,What's the light's luminous efficacy index?,The details of the light is
+1,get_data,light,Provide information on the light's radiant flux density,The details of the light is
+1,get_data,light,How bright is the light's illuminance?,The details of the light is
+1,get_data,light,What's the light's luminous efficiency?,The details of the light is
+1,get_data,light,Can you tell me the light's luminous flux per unit solid angle?,The details of the light is
+1,get_data,light,What's the light's radiant intensity distribution curve?,The details of the light is
+1,get_data,light,Please provide details about the light's brightness level curve,The details of the light is
+1,get_data,light,How intense is the illumination?,The details of the light is
+1,get_data,light,What's the light's luminous intensity profile?,The details of the light is
+1,get_data,light,Inform me about the light's radiant exposure,The details of the light is
+1,get_data,light,What's the light's luminous efficacy factor?,The details of the light is
+1,get_data,light,Provide information on the light's radiant energy density,The details of the light is
+1,get_data,light,How much light energy is being emitted per unit area?,The details of the light is
+1,get_data,light,What's the light's luminous energy efficiency?,The details of the light is
+1,get_data,light,Can you tell me the light's radiant exitance?,The details of the light is
+1,get_data,light,What's the light's luminous flux per unit area?,The details of the light is
+1,get_data,light,Inform me about the light's radiant exposure distribution,The details of the light is
+1,get_data,light,What's the light's luminous efficiency factor?,The details of the light is
+1,get_data,fan,What is the speed of the fan?,The details of the fan is
+1,get_data,fan,How fast the fan is spinning,The details of the fan is
+1,get_data,fan,What is the speed of the fan?,The details of the fan is
+1,get_data,fan,How fast the fan is spinning,The details of the fan is
+1,get_data,fan,Can you tell me the rotation speed of the fan?,The details of the fan is
+1,get_data,fan,Provide details about the fan's speed,The details of the fan is
+1,get_data,fan,What's the RPM of the fan?,The details of the fan is
+1,get_data,fan,How quickly is the fan rotating?,The details of the fan is
+1,get_data,fan,What's the fan's rotational velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed,The details of the fan is
+1,get_data,fan,What's the fan's angular velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's speed,The details of the fan is
+1,get_data,fan,How fast is the fan rotating?,The details of the fan is
+1,get_data,fan,What is the fan's rotation rate?,The details of the fan is
+1,get_data,fan,Can you tell me the fan's velocity?,The details of the fan is
+1,get_data,fan,What's the fan's speed level?,The details of the fan is
+1,get_data,fan,Provide details about how fast the fan is spinning,The details of the fan is
+1,get_data,fan,How rapid is the fan's rotation?,The details of the fan is
+1,get_data,fan,What's the fan's revolution per minute?,The details of the fan is
+1,get_data,fan,Inform me about the fan's velocity,The details of the fan is
+1,get_data,fan,What's the speed of rotation for the fan?,The details of the fan is
+1,get_data,fan,How fast does the fan rotate?,The details of the fan is
+1,get_data,fan,What's the fan's rotational speed?,The details of the fan is
+1,get_data,fan,Provide details about the fan's angular velocity,The details of the fan is
+1,get_data,fan,What's the rate of rotation of the fan?,The details of the fan is
+1,get_data,fan,Can you tell me how quickly the fan is spinning?,The details of the fan is
+1,get_data,fan,What's the fan's spin rate?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed of rotation,The details of the fan is
+1,get_data,fan,What's the fan's spinning velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's angular speed,The details of the fan is
+1,get_data,fan,How fast is the fan's RPM?,The details of the fan is
+1,get_data,fan,What's the fan's circular velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's rate of revolution,The details of the fan is
+1,get_data,fan,What's the fan's spinning rate?,The details of the fan is
+1,get_data,fan,Provide details about the fan's rate of rotation,The details of the fan is
+1,get_data,fan,How rapid is the fan's spin?,The details of the fan is
+1,get_data,fan,What's the fan's rotational velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed level,The details of the fan is
+1,get_data,fan,What's the fan's angular velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's speed,The details of the fan is
+1,get_data,fan,How fast is the fan rotating?,The details of the fan is
+1,get_data,fan,What is the fan's rotation rate?,The details of the fan is
+1,get_data,fan,Can you tell me the fan's velocity?,The details of the fan is
+1,get_data,fan,What's the fan's speed level?,The details of the fan is
+1,get_data,fan,Provide details about how fast the fan is spinning,The details of the fan is
+1,get_data,fan,How rapid is the fan's rotation?,The details of the fan is
+1,get_data,fan,What's the fan's revolution per minute?,The details of the fan is
+1,get_data,fan,Inform me about the fan's velocity,The details of the fan is
+1,get_data,fan,What's the speed of rotation for the fan?,The details of the fan is
+1,get_data,fan,How fast does the fan rotate?,The details of the fan is
+1,get_data,fan,What's the fan's rotational speed?,The details of the fan is
+1,get_data,fan,Provide details about the fan's angular velocity,The details of the fan is
+1,get_data,fan,What's the rate of rotation of the fan?,The details of the fan is
+1,get_data,fan,Can you tell me how quickly the fan is spinning?,The details of the fan is
+1,get_data,fan,What's the fan's spin rate?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed of rotation,The details of the fan is
+1,get_data,fan,What's the fan's spinning velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's angular speed,The details of the fan is
+1,get_data,fan,How fast is the fan's RPM?,The details of the fan is
+1,get_data,fan,What's the fan's circular velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's rate of revolution,The details of the fan is
+1,get_data,fan,What's the fan's spinning rate?,The details of the fan is
+1,get_data,fan,Provide details about the fan's rate of rotation,The details of the fan is
+1,get_data,fan,How rapid is the fan's spin?,The details of the fan is
+1,get_data,fan,What's the fan's rotational velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed level,The details of the fan is
+1,get_data,fan,What's the fan's angular velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's speed,The details of the fan is
+1,get_data,fan,How fast is the fan rotating?,The details of the fan is
+1,get_data,fan,What is the fan's rotation rate?,The details of the fan is
+1,get_data,fan,Can you tell me the fan's velocity?,The details of the fan is
+1,get_data,fan,What's the fan's speed level?,The details of the fan is
+1,get_data,fan,Provide details about how fast the fan is spinning,The details of the fan is
+1,get_data,fan,How rapid is the fan's rotation?,The details of the fan is
+1,get_data,fan,What's the fan's revolution per minute?,The details of the fan is
+1,get_data,fan,Inform me about the fan's velocity,The details of the fan is
+1,get_data,fan,What's the speed of rotation for the fan?,The details of the fan is
+1,get_data,fan,How fast does the fan rotate?,The details of the fan is
+1,get_data,fan,What's the fan's rotational speed?,The details of the fan is
+1,get_data,fan,Provide details about the fan's angular velocity,The details of the fan is
+1,get_data,fan,What's the rate of rotation of the fan?,The details of the fan is
+1,get_data,fan,Can you tell me how quickly the fan is spinning?,The details of the fan is
+1,get_data,fan,What's the fan's spin rate?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed of rotation,The details of the fan is
+1,get_data,fan,What's the fan's spinning velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's angular speed,The details of the fan is
+1,get_data,fan,How fast is the fan's RPM?,The details of the fan is
+1,get_data,fan,What's the fan's circular velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's rate of revolution,The details of the fan is
+1,get_data,fan,What's the fan's spinning rate?,The details of the fan is
+1,get_data,fan,Provide details about the fan's rate of rotation,The details of the fan is
+1,get_data,fan,How rapid is the fan's spin?,The details of the fan is
+1,get_data,fan,What's the fan's rotational velocity?,The details of the fan is
+1,get_data,fan,Inform me about the fan's speed level,The details of the fan is
+1,get_data,fan,What's the fan's angular velocity?,The details of the fan is
+1,get_data,fan,Provide information on the fan's speed,The details of the fan is
+1,get_data,fan,How fast is the fan rotating?,The details of the fan is
+1,get_data,fan,What is the fan's rotation rate?,The details of the fan is
+1,get_data,fan,Can you tell me the fan's velocity?,The details of the fan is
+1,get_data,fan,What's the fan's speed level?,The details of the fan is
+1,get_data,fan,Provide details about how fast the fan is spinning,The details of the fan is
+1,get_data,fan,How rapid is the fan's rotation?,The details of the fan is
+1,get_data,fan,What's the fan's revolution per minute?,The details of the fan is
+1,get_data,fan,Inform me about the fan's velocity,The details of the fan is
+1,get_data,fan,What's the speed of rotation for the fan?,The details of the fan is
+1,get_data,fan,How fast does the fan rotate?,The details of the fan is
+0,none,general,What features does INXAI offer for smart lighting?,INXAI provides dynamic control over lights allowing you to adjust brightness; color; and set schedules for an enhanced smart lighting experience.
+0,none,general,How can I improve energy efficiency with INXAI?,INXAI's smart home solutions optimize energy consumption by intelligently managing devices and suggesting energy-efficient settings based on your preferences.
+0,none,general,Tell me more about INXAI's security features.,INXAI ensures your smart home is secure with encrypted communication; real-time monitoring; and customizable security settings for peace of mind.
+0,none,general,Can I integrate third-party devices with INXAI?,Absolutely! INXAI supports a wide range of third-party devices; providing seamless integration and a unified smart home experience.
+0,none,general,What makes INXAI stand out from other smart home solutions?,INXAI distinguishes itself with its user-friendly app interface; advanced automation capabilities; and continuous updates for an evolving smart home experience.
+0,none,general,How does INXAI enhance home automation?,INXAI simplifies home automation with intuitive voice commands; customizable routines and adaptive learning; making your smart home responsive to your lifestyle.
+0,none,general,What's the benefit of using INXAI's app for smart home control?,INXAI's app offers centralized control; real-time monitoring; and personalized insights; providing a seamless and efficient way to manage your smart home.
+0,none,general,Can INXAI assist in creating a comfortable home environment?,Absolutely! INXAI optimizes your home environment by adjusting temperature; lighting; and other factors based on your preferences and daily routines.
+0,none,general,How does INXAI ensure user privacy in a smart home setup?,INXAI prioritizes user privacy with robust data encryption; transparent privacy policies; and giving users full control over data sharing settings.
+0,none,general,Can INXAI suggest energy-saving tips for my smart home?,Yes; INXAI analyzes your usage patterns and suggests energy-saving tips; helping you make informed decisions for a more sustainable and efficient home.
+0,none,general,What kind of voice commands can I use with INXAI?,INXAI supports a variety of voice commands for controlling lights; thermostats; security systems; and more; providing a hands-free and convenient smart home experience.
+0,none,general,How can INXAI enhance my daily routines?,INXAI learns your daily routines and can automate tasks like adjusting lighting; setting the thermostat; and even brewing your morning coffee; making your routines smoother.
+0,none,general,Is INXAI compatible with smart speakers?,Absolutely! INXAI seamlessly integrates with popular smart speakers; allowing you to control your smart home using voice commands through your preferred device.
+0,none,general,Can INXAI help me monitor my home remotely?,Yes. INXAI's remote monitoring feature enables you to check the status of your smart devices; receive security alerts; and control your home from anywhere in the world.
+0,none,general,How does INXAI adapt to changes in my daily life?,INXAI continuously adapts by learning from your habits and preferences; ensuring that your smart home evolves with you and remains in sync with your lifestyle.
+0,none,general,What security measures are in place for INXAI's cloud services?,INXAI employs industry-standard encryption protocols and multi-factor authentication for cloud services; ensuring the highest level of security for your smart home data.
+0,none,general,How can INXAI assist with energy consumption analysis?,INXAI provides detailed energy consumption reports; identifies energy-intensive devices; and suggests optimizations to help you make informed decisions for energy efficiency.
+0,none,general,Can INXAI help me create a more sustainable home?,Absolutely! INXAI's energy-saving recommendations; eco-friendly automation; and sustainable practices contribute to creating a greener and more sustainable home.
+0,none,general,What sets INXAI apart in terms of user experience?,INXAI prioritizes a seamless user experience through its intuitive app design; responsive customer support; and continuous improvement based on user feedback.
+0,none,general,Who is INXAI?,INXAI is your smart home companion; enabling seamless control and management of your connected devices.
+0,none,general,I want to know about INXAI what is that,INXAI is a smart home system; enabling seamless control and management of your connected devices.
+0,none,general,What is INXAI?,INXAI is an advanced smart home solution designed to simplify and enhance your home automation experience.
+0,none,general,Who created INXAI?,INXAI was developed by a team of experts dedicated to revolutionizing smart home technology.
+0,none,general,Who created you?,INXAI was developed by a team of experts dedicated to revolutionizing smart home technology.
+0,none,general,Who is the developer of INXAI?,INXAI was developed by a group of enthusiastic persons dedicated to improve smart home technology.
+0,none,general,Who is the owner of INXAI?,The founder of INXAI is not a single person. It was developed by a group of dedicated developers.
+0,none,general,Can you say the names of the developers of INXAI?,INXAI was created by a group of 4 members Namely Robin kiran nithish and magesh.
+0,none,general,Who are the developers of INXAI?,It was created by a team of four members namely Robin kiran nithish and magesh.
+0,none,general,Can you say who created you,Robin kiran nithish and magesh created me. 
+0,none,general,What can INXAI do?,INXAI empowers you to control and automate various aspects of your home; providing convenience and efficiency.
+0,none,general,Who manages INXAI?,INXAI is managed by a team committed to constantly improving and updating the platform for users' benefit.
+0,none,general,Is INXAI a person or a company?,INXAI is the innovative smart home solution offered by a dedicated technology company.
+0,none,general,Who designed INXAI's interface?,INXAI's interface was meticulously crafted by user experience designers for optimal usability.
+0,none,general,What role does INXAI play?,INXAI serves as your smart home assistant; simplifying daily tasks and enhancing convenience.
+0,none,general,Who benefits from using INXAI?,INXAI benefits anyone seeking a smarter; more efficient; and convenient living experience at home.
+0,none,general,Who can use INXAI?,INXAI is designed for homeowners seeking a seamless and intelligent way to manage their smart devices.
+0,none,general,Who is behind INXAI's technology?,INXAI's technology is developed and maintained by a dedicated team of tech enthusiasts.
+0,none,general,What makes INXAI unique?,INXAI stands out due to its intuitive design; advanced automation; and commitment to user satisfaction.
+0,none,general,Who should consider using INXAI?,INXAI is suitable for anyone looking to streamline their home management with smart technology.
+0,none,general,Who controls INXAI?,You control INXAI through the user-friendly app; giving you command over your smart home devices.
+0,none,general,Who uses INXAI's services?,INXAI's services are utilized by homeowners seeking a more connected and efficient living space.
+0,none,general,Who manages INXAI's updates?,INXAI's updates are managed by a dedicated team to ensure continuous improvement and innovation.
+0,none,general,What sets INXAI apart?,INXAI's seamless integration; adaptive learning; and user-centric approach make it stand out.
+0,none,general,Who benefits from INXAI's automation?,INXAI's automation benefits anyone seeking a more efficient and comfortable lifestyle at home.
+0,none,general,Who can offer support for INXAI users?,INXAI provides dedicated customer support to assist users with any queries or issues.
+1,open,door,Unlock the door,The door is now unlocked.
+1,close,door,Lock the door,The door is now locked.
+1,open,door,Open the entrance,The entrance is now open.
+1,close,door,Close the entryway,The entryway is now closed.
+1,open,door,Release the door lock,The door lock is released.
+1,close,door,Secure the door,The door is now secured.
+1,open,door,Unlatch the entrance,The entrance is now unlatched.
+1,close,door,Latch the door,The door is now latched.
+1,open,door,Undo the lock,The lock is now undone.
+1,close,door,Do the lock,The lock is now done.
+1,open,door,Open up,The door is now opened.
+1,close,door,Shut the door,The door is now shut.
+1,open,door,Unlock the entry,The entry is now unlocked.
+1,close,door,Lock the entry,The entry is now locked.
+1,open,door,Turn the knob to open,The knob is now turned to open.
+1,close,door,Turn the knob to close,The knob is now turned to close.
+1,open,door,Release the latch,The latch is now released.
+1,close,door,Latch the entry,The entry is now latched.
+1,open,door,Set free the door,The door is now set free.
+1,close,door,Secure the entry,The entry is now secured.
+1,open,door,Unlock and open,The door is now unlocked and opened.
+1,close,door,Lock and shut,The door is now locked and shut.
+1,open,door,Activate the opening mechanism,The opening mechanism is now activated.
+1,close,door,Activate the closing mechanism,The closing mechanism is now activated.
+1,open,door,Free the entrance,The entrance is now freed.
+1,close,door,Guard the door,The door is now guarded.
+1,open,door,Unseal the door,The door is now unsealed.
+1,close,door,Seal the door,The door is now sealed.
+1,open,door,Allow access,Access allowed through the door.
+1,close,door,Deny access,Access denied through the door.
+1,open,door,Release the barrier,The barrier is now released.
+1,close,door,Activate the barrier,The barrier is now activated.
+0,get_data,door,Is the door closed?,The details of the door is
+0,get_data,door,What is the status of the door,The details of the door is
+0,get_data,door,Am i just keeping my door open?,The details of the door is
+0,get_data,door,Is the door closed?,The door status is
+0,get_data,door,What is the status of the door?,The door status is
+0,get_data,door,Am I just keeping my door open?,The door status is
+0,get_data,door,Is the entrance secured?,The door status is
+0,get_data,door,Can you confirm if the door is shut?,The door status is
+0,get_data,door,What's the current state of the entryway?,The door status is
+0,get_data,door,Is the door locked?,The door status is
+0,get_data,door,Can you check if the door is latched?,The door status is
+0,get_data,door,Is the door sealed?,The door status is
+0,get_data,door,Is the entrance unlocked?,The door status is
+0,get_data,door,Is the door open?,The door status is
+0,get_data,door,Can you confirm if the entry is closed?,The door status is
+0,get_data,door,Is the door released?,The door status is
+0,get_data,door,Is the latch secured?,The door status is
+0,get_data,door,Can you verify if the entry is freed?,The door status is
+0,get_data,door,Is the door guarded?,The door status is
+0,get_data,door,Is the door activated?,The door status is
+0,get_data,door,Is the entryway activated?,The door status is
+0,get_data,door,Is the entrance activated?,The door status is
+0,get_data,door,Can you check if the barrier is released?,The door status is
+0,get_data,door,Is the entrance sealed?,The door status is
+0,get_data,door,Is the door allowed access?,The door status is
+0,get_data,door,Can you confirm if the door is denied access?,The door status is
+0,get_data,door,Is the door activated for entry?,The door status is
+0,get_data,door,Is the door sealed off?,The door status is
+0,get_data,door,Can you verify the door status?,The door status is
+0,get_data,door,Can you check the current state of the door?,The door status is
+0,get_data,door,Is the door guarded?,The door status is
+0,get_data,door,Is the door active?,The door status is
+0,get_data,door,Is the entrance active?,The door status is
+0,get_data,door,Is the door accessible?,The door status is
+0,get_data,door,Is the door in use?,The door status is
+0,get_data,door,Can you provide the door status?,The door status is
+0,get_data,door,Is the door accessible?,The door status is
+0,get_data,door,What's the status of the entryway?,The door status is
+0,get_data,door,Can you confirm if the door is shut tight?,The door status is
+1,open,door,Open the portal,The portal is now open.
+1,open,door,Unbolt the entry,The entry is now unbolted.
+1,open,door,Loosen the lock,The lock is now loosened.
+1,open,door,Unlock the gateway,The gateway is now unlocked.
+1,open,door,Push the entrance,The entrance is now pushed open.
+1,open,door,Free up the pathway,The pathway is now free for access.
+1,open,door,Unlock the gateway,The gateway is now accessible.
+1,open,door,Release the latch,The latch is now open.
+1,open,door,Open the pathway,The pathway is now accessible.
+1,open,door,Turn the handle to unlock,The handle is now turned to unlock.
+1,open,door,Unlock the gate,The gate is now unlocked for entry.
+1,open,door,Open the entryway,The entryway is now open.
+1,open,door,Unlock the access point,The access point is now accessible.
+1,open,door,Free the door,The door is now free to open.
+1,open,door,Open the passageway,The passageway is now open.
+1,open,door,Release the seal,The seal is now released.
+1,open,door,Open the access point,The access point is now open.
+1,open,door,Unlatch the barrier,The barrier is now unlatched.
+1,open,door,Unlock the opening,The opening is now accessible.
+1,open,door,Open the door wide,The door is now wide open.
+1,open,door,Loosen the latch,The latch is now loose.
+1,open,door,Unlock the entry,The entry is now unlocked.
+1,open,door,Open the gateway,The gateway is now open.
+1,open,door,Release the fastening,The fastening is now released.
+1,close,door,Lock the entrance,The entrance is now locked.
+1,close,door,Close the gateway,The gateway is now closed.
+1,close,door,Secure the access point,The access point is now secured.
+1,close,door,Latch the passage,The passage is now latched.
+1,close,door,Lock the pathway,The pathway is now locked.
+1,close,door,Seal the entryway,The entryway is now sealed.
+1,close,door,Close and secure,The closure is now secured.
+1,close,door,Guard the access,The access is now guarded.
+1,close,door,Block the entrance,The entrance is now blocked.
+1,close,door,Shut off the pathway,The pathway is now shut off.
+1,close,door,Secure and seal,The area is now secured and sealed.
+1,close,door,Shut down the entry,The entry is now shut down.
+1,close,door,Lock and bar,The area is now locked and barred.
+1,close,door,Close and secure the gate,The gate is now closed and secured.
+1,close,door,Seal off the access point,The access point is now sealed off.
+1,close,door,Latch and lock,The area is now latched and locked.
+1,close,door,Close and protect,The area is now closed and protected.
+1,close,door,Secure the closure,The closure is now secured.
+1,close,door,Lock and bolt,The area is now locked and bolted.
+1,close,door,Seal and secure,The area is now sealed and secured.
+1,close,door,Guard and lock,The area is now guarded and locked.
+1,close,door,Block and secure,The area is now blocked and secured.
+1,close,door,Shut and latch,The area is now shut and latched.
