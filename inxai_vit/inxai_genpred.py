@@ -17,35 +17,15 @@ engine.setProperty('rate',135)
 #rate = engine.getProperty('rate')
 #print(rate)'''
 
-model_inp = int(input("1 for flanT5 \n2 for LaminiFlanT5 \n3 for INXAI\n4 for INXAI v2\n5 for GK_Model \nChoose your model to test: "))
+model_inp = int(input("Select the model with 1 or 2: "))
 if model_inp == 1:
-    model_path = 'google/flan-t5-small'
-    model_name = 'Google Flan T5'
-    print("Using FlanT5-Small model")
-elif model_inp == 2:
-    model_path = 'MBZUAI/LaMini-Flan-T5-77M'
-    model_name = 'Lamini Flan T5'
-    print("Using LaminiFlanT5 model")
-elif model_inp == 3:
     model_path = './inxai_model_revised2'
     model_name = 'INXAI'
     print("Using INXAI model")
-elif model_inp == 4:
-    model_path = './inxai_model_revised3'
-    model_name = 'INXAI v2'
-    print("Using INXAI v2")
-elif model_inp == 5:
-    model_path = './gk_model'
-    model_name = 'GK Model'
-    print("Using GK model")
-elif model_inp == 6:
+elif model_inp == 2:
     model_path = './smartron_model3'
-    model_name = 'Smartron'
-    print("Smartron model")
-elif model_inp == 7:
-    model_path = './inxai_model6'
-    model_name = 'New INXAI'
-    print("New INXAI")
+    model_name = 'INXAI 2'
+    print("Using INXAI model 2")
 else:
     print("Wrong input")
 
