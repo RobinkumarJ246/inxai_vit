@@ -1,4 +1,5 @@
 # Innovatronix
+**Note:** Due to GitHub's file size limit (50 MB), rest you can see the uploaded scripts which we have made to train the model and to generate the responses.
 
 ## Team Members
 - Robinkumar J
